@@ -1,0 +1,14 @@
+{
+  "name": "selfstudy_electron",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuyaebean/selfstudy_electron",
+  "author": "yuyaebean<yuyaebean@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^10.0.1"
+  }
+}
